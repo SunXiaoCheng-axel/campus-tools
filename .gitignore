@@ -1,0 +1,11 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code配置文件夹
+.vscode/
+
+# 临时日志
+*.log
